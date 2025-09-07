@@ -1,4 +1,3 @@
-# -shadoW-reapers
 // src/App.js
 // Shadow Reapers - Premium Gaming Tournament Platform
 // Enhanced with advanced UI/UX, animations, and functionality
